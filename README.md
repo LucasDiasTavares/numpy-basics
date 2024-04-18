@@ -9,6 +9,8 @@
   - 2D array - pull out a number from given position
   - 2D array - slice from both rows
 - **Universal Functions**
+  - [link docs](https://numpy.org/doc/stable/reference/ufuncs.html)
+  - 
 - **Copy and View**
 - **Shape and Reshape**
 - **Iterating**
