@@ -10,7 +10,12 @@
   - 2D array - slice from both rows
 - **Universal Functions**
   - [link docs](https://numpy.org/doc/stable/reference/ufuncs.html)
-  - 
+  - Square of each element
+  - Absolute Value
+  - Exponential
+  - Max value
+  - Min value
+  - Positive or negative
 - **Copy and View**
 - **Shape and Reshape**
 - **Iterating**
