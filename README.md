@@ -16,7 +16,9 @@
   - Max value
   - Min value
   - Positive or negative
-- **Copy and View**
+- **View and Copy**
+  - View - If original changes, view update and vice versa
+  - Copy - Copy element
 - **Shape and Reshape**
 - **Iterating**
 - **Sorting**
