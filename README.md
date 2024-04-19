@@ -20,14 +20,17 @@
   - View - If original changes, view update and vice versa
   - Copy - Copy element
 - **Shape and Reshape**
-  - 1D Shape
-  - 2D Shape
-  - 2D Reshape
-  - 3D Reshape
-  - 3D to 1D
+  - 1D array shape
+  - 2D array sape
+  - 2D array reshape
+  - 3D array reshape
+  - 3D array to 1D array
 - **Iterating**
   - Inner arrays
-  - Inner arrays with if/else
 - **Sorting**
+  - Numbers
+  - String
+  - Bool
+  - 2D array
 - **Searching**
 - **Filter**
