@@ -33,4 +33,6 @@
   - Bool
   - 2D array
 - **Searching**
+  - Return Index
+  - Return Value
 - **Filter**
