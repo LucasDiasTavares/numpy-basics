@@ -20,6 +20,11 @@
   - View - If original changes, view update and vice versa
   - Copy - Copy element
 - **Shape and Reshape**
+  - 1D Shape
+  - 2D Shape
+  - 2D Reshape
+  - 3D Reshape
+  - 3D to 1D
 - **Iterating**
 - **Sorting**
 - **Searching**
