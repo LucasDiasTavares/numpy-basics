@@ -26,6 +26,8 @@
   - 3D Reshape
   - 3D to 1D
 - **Iterating**
+  - Inner arrays
+  - Inner arrays with if/else
 - **Sorting**
 - **Searching**
 - **Filter**

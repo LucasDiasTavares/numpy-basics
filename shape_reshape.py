@@ -21,7 +21,6 @@ np2 = np.array([[1, 2, 3, 4, 5, 6], [7, 8, 9, 10, 11, 12]])
 print(f"NP2 shape {np2.shape}")
 
 # Reshape 2D
-
 np3 = np1.reshape(2, 3)
 # Return [[1 2 3] [4 5 6]]
 print(f"NP3 {np3}")
@@ -36,9 +35,10 @@ print(f"NP4 {np4}")
 print(f"NP4 shape {np4.shape}")
 
 # Flat to 1D
+# Any D to 1D
 np5 = np4.reshape(-1)
 print(f"NP5 flat array {np5}")
 # Return (6,) like np1.shape
 print(f"NP5 flat array shape {np5.shape}")
 
-# Any D to 1D
+
