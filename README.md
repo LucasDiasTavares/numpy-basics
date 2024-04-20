@@ -36,3 +36,5 @@
   - Return Index
   - Return Value
 - **Filter**
+  - Boolean auto array
+  - Filtering
